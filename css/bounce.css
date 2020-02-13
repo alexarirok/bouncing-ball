@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+
+}
+
+.jumbotron {
+    padding: 30px;
+    text-align: center;
+    background-image: url(...img/brick.jpg);
+}
+
+.text-giant {
+    font-size: 48px;
+}
+
+.btn-crazy {
+    position: absolute;
+    top: 30px;
+    left: 40%;
+    width: 30%;
+    transition: 0.5s ease all;
+    text-align: center;
+}
